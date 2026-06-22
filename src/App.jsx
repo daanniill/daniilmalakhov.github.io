@@ -10,9 +10,7 @@ function App() {
     <>
       <Navbar />
       <main>
-        <section id="home">
-          <Hero />
-        </section>
+        <Hero />
 
         <section id="projects" className="projects-section">
           <h2 className="section-title">Featured Projects</h2>
