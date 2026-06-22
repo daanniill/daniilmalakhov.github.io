@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Hero from './components/Hero/Hero'
 import Navbar from './components/Navbar/Navbar'
 import ProjectCard from './components/ProjectCard/ProjectCard'
+import './App.css'
 
 function App() {
 
